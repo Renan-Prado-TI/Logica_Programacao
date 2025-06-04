@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var promptSync = require("prompt-sync");
+var prompt = promptSync();
+var numero1 = parseInt(prompt("Digite um numero: "));
+var numero2 = parseInt(prompt("Digite outro numero: "));
+console.log(numero1, numero2);
+var resultado;
+resultado = numero1 + numero2;
+console.log(resultado);
