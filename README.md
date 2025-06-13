@@ -16,6 +16,10 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Comparação de números com TypeScript
   - Configuração de ambiente Node.js
   - Uso de pacotes externos (prompt-sync)
+- `Aula_10/`: Aprofundando em TypeScript
+  - Tipos avançados
+  - Módulos e organização de código
+  - Práticas recomendadas
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
