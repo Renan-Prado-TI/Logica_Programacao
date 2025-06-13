@@ -12,6 +12,10 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
 - `Aula_08/`: Estruturas condicionais avançadas
   - Comparação entre números
   - Uso de condicionais if/else
+- `Aula_09/`: Introdução ao TypeScript com Node.js
+  - Comparação de números com TypeScript
+  - Configuração de ambiente Node.js
+  - Uso de pacotes externos (prompt-sync)
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
@@ -30,7 +34,7 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
 1. Clone o repositório
 2. Acesse a pasta do projeto desejado
 3. Instale as dependências com `npm install`
-4. Execute o arquivo `.ts` com `npx ts-node index.ts`
+4. Execute o arquivo `.ts` com `npx ts-node index.ts` ou o arquivo `.js` com `node index.js`
 
 ## 🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
