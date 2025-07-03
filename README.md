@@ -20,6 +20,14 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Tipos avançados
   - Módulos e organização de código
   - Práticas recomendadas
+- `Aula_11_IF_Operadores-Logicos/`: Operadores Lógicos
+  - Uso de operadores lógicos (&&, ||, !)
+  - Comparações múltiplas
+  - Exemplo prático: encontrar o maior entre três números
+- `Aula_12_IF_Encadeado/`: Estruturas Condicionais Aninhadas
+  - If/else encadeados
+  - Cálculo de média escolar
+  - Fluxo de aprovação e recuperação
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
@@ -38,6 +46,7 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
 1. Clone o repositório
 2. Acesse a pasta do projeto desejado
 3. Instale as dependências com `npm install`
+   > **Nota:** A pasta `node_modules` não está incluída no repositório (devido ao `.gitignore`), então é necessário executar `npm install` em cada pasta de aula que contém um `package.json`
 4. Execute o arquivo `.ts` com `npx ts-node index.ts` ou o arquivo `.js` com `node index.js`
 
 ## 🤝 Contribuição
