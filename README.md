@@ -46,6 +46,11 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Condicionais aninhadas complexas
   - Múltiplos níveis de validação
   - Sistema de pontuação avançado
+- `Aula_17_Calculo-IMC/`: Cálculo de Índice de Massa Corporal (IMC)
+  - Cálculo de IMC
+  - Classificação de acordo com a OMS
+  - Validação de entrada de dados
+  - Estruturas condicionais para classificação
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
