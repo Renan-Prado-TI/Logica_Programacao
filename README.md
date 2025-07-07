@@ -51,6 +51,11 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Classificação de acordo com a OMS
   - Validação de entrada de dados
   - Estruturas condicionais para classificação
+- `Aula_18_Calculadora-String/`: Calculadora com Manipulação de String
+  - Processamento de strings para realizar cálculos
+  - Uso de métodos de string (indexOf, substring)
+  - Conversão de string para número (parseFloat)
+  - Implementação das quatro operações básicas (+, -, *, /)
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
