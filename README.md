@@ -56,6 +56,21 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Uso de métodos de string (indexOf, substring)
   - Conversão de string para número (parseFloat)
   - Implementação das quatro operações básicas (+, -, *, /)
+- `Aula_19_IF-Converter-Dados/`: Conversão de Números para Meses
+  - Uso de estruturas condicionais if/else if/else
+  - Mapeamento de números para nomes de meses
+  - Validação de entrada do usuário
+  - Exibição de mensagens condicionais
+- `Aula_20_Calcular-Idade/`: Cálculo de Idade com Data de Nascimento
+  - Manipulação de datas em TypeScript
+  - Cálculo de idade baseado na data atual
+  - Uso do objeto Date() para obter a data atual
+  - Lógica condicional para cálculo preciso da idade
+- `Aula_21_Jogo-Impar-Par/`: Jogo de Par ou Ímpar
+  - Implementação do jogo clássico de par ou ímpar
+  - Uso de operador módulo (%) para verificar paridade
+  - Lógica condicional para determinar o vencedor
+  - Interação com o usuário via linha de comando
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
