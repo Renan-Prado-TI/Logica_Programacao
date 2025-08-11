@@ -71,6 +71,23 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Uso de operador módulo (%) para verificar paridade
   - Lógica condicional para determinar o vencedor
   - Interação com o usuário via linha de comando
+- `Aula_22_Jogo-2ou1-IF/`: Jogo 2 ou 1 com Condicionais
+  - Implementação do jogo 2 ou 1
+  - Uso de estruturas condicionais if/else
+  - Validação de entrada do usuário
+  - Lógica para determinar o vencedor entre três jogadores
+- `Aula_24_Estrutura-Repeticao-While/`: Introdução às Estruturas de Repetição
+  - Primeiro contato com o laço while
+  - Leitura de múltiplos números do usuário
+  - Controle de fluxo com contador
+- `Aula_25_Estrutura-Repeticao-While-2/`: Contagem com While
+  - Uso do while para contagem de 1 a 100
+  - Incremento de variável de controle
+  - Exibição sequencial de números
+- `Aula_26_Estrutura-Repeticao-While-Pares/`: Números Pares com While
+  - Dois métodos para exibir números pares até 100
+  - Uso de operador módulo (%)
+  - Incremento condicional e direto
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
