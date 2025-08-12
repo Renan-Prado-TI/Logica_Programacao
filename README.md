@@ -88,6 +88,15 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Dois métodos para exibir números pares até 100
   - Uso de operador módulo (%)
   - Incremento condicional e direto
+- `Aula_27_Estrutura-While-Primo/`: Verificação de Números Primos
+  - Uso da estrutura while para verificar números primos
+  - Lógica de divisibilidade
+  - Uso de break para otimização
+  - Validação de entrada do usuário
+- `Aula_28_Estrutura-For/`: Introdução ao Laço For
+  - Uso básico do loop for
+  - Comparação entre while e for
+  - Controle de fluxo com contadores
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
