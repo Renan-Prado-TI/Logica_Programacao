@@ -97,6 +97,14 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Uso básico do loop for
   - Comparação entre while e for
   - Controle de fluxo com contadores
+- `Aula_29_Soma-Numeros/`: Soma de Números com While
+  - Uso do loop while para leitura contínua de entrada
+  - Soma cumulativa de números
+  - Condição de saída com break
+- `Aula_30_Maior-Menor/`: Encontrando Maior e Menor Números
+  - Uso do loop for para leitura de 10 números
+  - Lógica para encontrar o maior e o menor valor
+  - Inicialização adequada de variáveis para comparação
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
