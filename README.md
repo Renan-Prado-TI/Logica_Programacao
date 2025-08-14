@@ -105,6 +105,21 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Uso do loop for para leitura de 10 números
   - Lógica para encontrar o maior e o menor valor
   - Inicialização adequada de variáveis para comparação
+- `Aula_31_Programa-media/`: Cálculo de Média de Alunos
+  - Uso de loop while para leitura contínua de dados
+  - Cálculo de média de 4 notas por aluno
+  - Condição de saída com verificação de string
+  - Cálculo da média geral da turma
+- `Aula_32_Juntando-Operacoes/`: Operações com Números Pares e Ímpares
+  - Uso de loop for para leitura de 10 números
+  - Separação entre números pares e ímpares
+  - Cálculo de somas e médias
+  - Operações condicionais com módulo (%)
+- `Aula_33_Manipulando-String/`: Manipulação de Strings em TypeScript
+  - Métodos básicos de manipulação de strings
+  - Conversão entre maiúsculas e minúsculas
+  - Extração de caracteres e substrings
+  - Concatenação de strings
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
