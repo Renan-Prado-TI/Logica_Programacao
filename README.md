@@ -120,6 +120,21 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Conversão entre maiúsculas e minúsculas
   - Extração de caracteres e substrings
   - Concatenação de strings
+- `Aula_34_Data-Valida/`: Validação de Data
+  - Verificação de datas válidas
+  - Validação de meses e anos bissextos
+  - Lógica condicional para validação de dias por mês
+  - Formatação e exibição de datas
+- `Aula_35_Validacao-Email/`: Validação de E-mail
+  - Verificação de formato de e-mail válido
+  - Uso de expressões regulares para validação
+  - Validação de domínio e estrutura do e-mail
+  - Feedback ao usuário sobre erros de formatação
+- `Aula_36_Treinar-Alfabeto/`: Treinamento de Alfabeto
+  - Exercícios de reconhecimento de letras
+  - Prática de sequência alfabética
+  - Jogos educacionais com o alfabeto
+  - Interatividade para aprendizado de letras
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
