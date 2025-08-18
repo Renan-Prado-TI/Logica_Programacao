@@ -135,6 +135,12 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Prática de sequência alfabética
   - Jogos educacionais com o alfabeto
   - Interatividade para aprendizado de letras
+- `Aula_37_Contagem-Palavras/`: Contagem de Palavras e Caracteres
+  - Contagem de caracteres em um texto
+  - Cálculo do número de palavras
+  - Uso de métodos de string (indexOf, trim)
+  - Validação de entrada vazia
+  - Lógica para contagem de espaços em branco
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
