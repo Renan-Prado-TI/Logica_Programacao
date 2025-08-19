@@ -141,6 +141,16 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Uso de métodos de string (indexOf, trim)
   - Validação de entrada vazia
   - Lógica para contagem de espaços em branco
+- `Aula_38_Vetores-Matriz/`: Introdução a Vetores e Matrizes
+  - Criação e manipulação de arrays unidimensionais (vetores)
+  - Operações básicas com vetores
+  - Inicialização e acesso a elementos
+  - Percorrendo arrays com loops
+- `Aula_39_Imprimindo-Matrizes/`: Trabalhando com Matrizes
+  - Criação e manipulação de matrizes bidimensionais
+  - Inicialização de matrizes
+  - Percorrendo matrizes com loops aninhados
+  - Operações básicas com matrizes
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
