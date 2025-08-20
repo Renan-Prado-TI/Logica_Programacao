@@ -146,10 +146,15 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Operações básicas com vetores
   - Inicialização e acesso a elementos
   - Percorrendo arrays com loops
-- `Aula_39_Imprimindo-Matrizes/`: Trabalhando com Matrizes
-  - Criação e manipulação de matrizes bidimensionais
-  - Inicialização de matrizes
-  - Percorrendo matrizes com loops aninhados
+- `Aula_39_Imprimindo-Matrizes/`: Operações com Matrizes
+  - Uso de arrays bidimensionais
+  - Inicialização e iteração em matrizes
+  - Exemplos práticos de manipulação
+- `Aula_40_Vetores-Operadores/`: Operações com Vetores
+  - Manipulação de arrays em TypeScript
+  - Cálculo de média de valores
+  - Filtragem de elementos com base em condições
+  - Uso de estruturas de repetição com arrays
   - Operações básicas com matrizes
 
 ## 🛠️ Tecnologias Utilizadas
