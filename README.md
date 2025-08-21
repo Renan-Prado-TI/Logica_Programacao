@@ -156,6 +156,11 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Filtragem de elementos com base em condições
   - Uso de estruturas de repetição com arrays
   - Operações básicas com matrizes
+- `Aula_41_Troca_Valores/`: Troca de Valores entre Variáveis
+  - Técnicas para trocar valores entre variáveis
+  - Uso de variável temporária
+  - Operações aritméticas para troca de valores
+  - Exemplos práticos em TypeScript
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
