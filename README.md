@@ -161,6 +161,11 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Uso de variável temporária
   - Operações aritméticas para troca de valores
   - Exemplos práticos em TypeScript
+- `Aula_42_Busca-Linear/`: Busca Linear em Vetores
+  - Implementação do algoritmo de busca linear
+  - Percorrendo arrays em busca de um elemento
+  - Uso de flags booleanas para controle de fluxo
+  - Interação com o usuário para busca de valores
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
