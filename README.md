@@ -166,6 +166,11 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Percorrendo arrays em busca de um elemento
   - Uso de flags booleanas para controle de fluxo
   - Interação com o usuário para busca de valores
+- `Aula_43_Maiores-Notas/`: Encontrando as Maiores Notas
+  - Processamento de arrays numéricos
+  - Algoritmo para encontrar as 3 maiores notas
+  - Uso de estruturas de repetição aninhadas
+  - Manipulação de índices em arrays
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
