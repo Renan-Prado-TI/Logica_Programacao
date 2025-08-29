@@ -171,6 +171,11 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Algoritmo para encontrar as 3 maiores notas
   - Uso de estruturas de repetição aninhadas
   - Manipulação de índices em arrays
+- `Aula_44_Json/`: Trabalhando com JSON em TypeScript
+  - Manipulação de dados em formato JSON
+  - Conversão entre objetos TypeScript e JSON
+  - Leitura e escrita de arquivos JSON
+  - Operações básicas com objetos JSON
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
