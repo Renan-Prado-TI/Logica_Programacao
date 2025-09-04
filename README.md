@@ -176,6 +176,12 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Conversão entre objetos TypeScript e JSON
   - Leitura e escrita de arquivos JSON
   - Operações básicas com objetos JSON
+- `Aula_45_Vetores-Json/`: Vetores e Objetos em TypeScript
+  - Definição de tipos personalizados para objetos
+  - Criação de arrays de objetos tipados
+  - Iteração sobre arrays com for
+  - Filtragem de elementos com condicionais
+  - Manipulação de datas em objetos
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
