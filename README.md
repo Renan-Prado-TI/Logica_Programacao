@@ -182,6 +182,12 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Iteração sobre arrays com for
   - Filtragem de elementos com condicionais
   - Manipulação de datas em objetos
+- `Aula_46_Manipular-Vetores-Json/`: Manipulação Avançada de Vetores com JSON
+  - Operações CRUD (Create, Read, Update, Delete) em arrays de objetos
+  - Filtragem e busca em arrays complexos
+  - Ordenação de objetos por diferentes propriedades
+  - Transformação de dados em arrays de objetos
+  - Exemplos práticos de manipulação de dados estruturados
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
