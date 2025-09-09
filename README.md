@@ -188,6 +188,12 @@ Este repositório contém os códigos e exercícios práticos desenvolvidos dura
   - Ordenação de objetos por diferentes propriedades
   - Transformação de dados em arrays de objetos
   - Exemplos práticos de manipulação de dados estruturados
+- `Aula_47_Alteracao-Remocao/`: Alteração e Remoção em Arrays
+  - Técnicas para modificar elementos em arrays de objetos
+  - Remoção segura de itens de arrays
+  - Busca e atualização de objetos específicos
+  - Iteração e manipulação de arrays com TypeScript
+  - Exemplos práticos de gerenciamento de listas
 
 ## 🛠️ Tecnologias Utilizadas
 - JavaScript
